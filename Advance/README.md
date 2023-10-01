@@ -5,7 +5,7 @@
 <h2>HTML Images</h2>
 <p>HTML images are defined with the img tag:</p>
 
-<img src="[w3schools.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dyoutube&psig=AOvVaw3X2cGyT-V_tXPh-rczZ25-&ust=1696249933434000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOi1q8jt1IEDFQAAAAAdAAAAABAE)https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dyoutube&psig=AOvVaw3X2cGyT-V_tXPh-rczZ25-&ust=1696249933434000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOi1q8jt1IEDFQAAAAAdAAAAABAE" alt="youtube" width="104" height="142">
+<img src="https://w7.pngwing.com/pngs/208/269/png-transparent-youtube-play-button-computer-icons-youtube-youtube-logo-angle-rectangle-logo.png" alt="youtube" width="104" height="142">
 
 </body>
 </html>
