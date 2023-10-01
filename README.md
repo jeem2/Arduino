@@ -8,4 +8,10 @@ You can visit our Store  at [jeem3.com ](https://jeem3.com/)
 
 
 
-
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
